@@ -1,7 +1,9 @@
-import iron.Monitor;
-import iron.Ram;
-import iron.Ssd;
-import pc.Computer;
+package Lesson1;
+
+import Lesson1.iron.Monitor;
+import Lesson1.iron.Ram;
+import Lesson1.iron.Ssd;
+import Lesson1.pc.Computer;
 
 public class Runer {
     public static void main(String[] args) {
