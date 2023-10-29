@@ -1,8 +1,8 @@
-package Lesson1.pc;
+package lesson1.pc;
 
-import Lesson1.iron.Monitor;
-import Lesson1.iron.Ram;
-import Lesson1.iron.Ssd;
+import lesson1.iron.Monitor;
+import lesson1.iron.Ram;
+import lesson1.iron.Ssd;
 
 
 

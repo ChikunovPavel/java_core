@@ -1,5 +1,0 @@
-FROM bellsoft/liberica-openjdk-alpine:16.0.1
-COPY ./src ./src
-RUN mkdir ./out
-RUN javac -sourcepath ./src -d out src/Lesson1.Runer.java
-CMD java -classpath ./out Lesson1.Runer

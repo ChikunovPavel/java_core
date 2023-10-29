@@ -1,9 +1,9 @@
-package Lesson1;
+package lesson1;
 
-import Lesson1.iron.Monitor;
-import Lesson1.iron.Ram;
-import Lesson1.iron.Ssd;
-import Lesson1.pc.Computer;
+import lesson1.iron.Monitor;
+import lesson1.iron.Ram;
+import lesson1.iron.Ssd;
+import lesson1.pc.Computer;
 
 public class Runer {
     public static void main(String[] args) {

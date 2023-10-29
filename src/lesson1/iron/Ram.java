@@ -1,4 +1,4 @@
-package Lesson1.iron;
+package lesson1.iron;
 
 
 public class Ram {
